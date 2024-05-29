@@ -2,6 +2,18 @@
 - Language : Python
 - Framework&Model : Yolov3
 - 특이사항 : 실행 환경별 모델 혹은 실행환경 업데이트 요망
+- 참고자료 : https://github.com/AlexeyAB/darknet
+---
+[chunknet 경로 information]
+main파일: chunknet / chun_main.ipynb
+cfg파일: chunknet/darkent-master/build/darknet/x64 / chun_1,2,3,4,5.cfg
+weight파일: chunknet/darkent-master/build/darknet/x64/backup / chun_1,2,3,4,5.weight
+데이터셋: chunknet/darkent-master/build/darknet/x64/ data
+- Dataset_01: 일반 이미지 데이터셋
+- Dataset_02: 엣지 이미지 데이터셋
+- Dataset_03: small_boundingbox 데이터셋
+- Dataset_04: augmentation 데이터셋
+- test_image: 예측을 위한 이미지 2장
 ---
 ## Dataset
 resizing
