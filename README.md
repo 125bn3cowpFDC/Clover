@@ -1,6 +1,6 @@
 # Find Clover
 - Language : Python
-- Framework&Model : Yolov3
+- Framework&Model : darknet, Yolov3
 - 특이사항 : 실행 환경별 모델 혹은 실행환경 업데이트 요망
 - 참고자료 : https://github.com/AlexeyAB/darknet
 ---
