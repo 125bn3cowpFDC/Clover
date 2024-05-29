@@ -12,9 +12,4 @@ weight파일: chunknet/darkent-master/build/darknet/x64/backup / chun_1,2,3,4,5.
 - Dataset_04: augmentation 데이터셋
 - test_image: 예측을 위한 이미지 2장
 
-[사용법]
-1. chunknet 구글 드라이브 업로드
-2. chun_main 주석 확인
 
-[기타]
-보고서 및 PPT참고
