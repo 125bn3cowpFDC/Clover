@@ -7,7 +7,6 @@
 [chunknet 경로 information]
 main파일: chunknet / chun_main.ipynb
 cfg파일: chunknet/darkent-master/build/darknet/x64 / chun_1,2,3,4,5.cfg
-weight파일: chunknet/darkent-master/build/darknet/x64/backup / chun_1,2,3,4,5.weight
 데이터셋: chunknet/darkent-master/build/darknet/x64/ data
 - Dataset_01: 일반 이미지 데이터셋
 - Dataset_02: 엣지 이미지 데이터셋
