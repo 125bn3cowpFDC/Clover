@@ -50,6 +50,18 @@ normal dataset
 - **mAP 70%**
 - **IoU 38% (실제 이미지 예측에 대하여 네잎클로버는 잘 찾았지만 IoU가 38%정도로 낮음.)**
 
+
+small area dataset
+
+
+![s_](https://github.com/125bn3cowpFDC/Clover/assets/170291905/1e0e5c4e-6209-4e60-ac72-03c7dc59cbfc)
+
+
+**결과**
+
+- **mAP 70% - normal dataset과 유사.**
+- **IoU 78% - 잘못된 객체 포함 검출.**
+
 edge dataset
 
 
